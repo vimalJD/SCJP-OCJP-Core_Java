@@ -1,0 +1,19 @@
+//---------------Implementation Use Case-----------------------------------------------//
+
+1. Data type use to create simple java class 
+
+2. Arithmetic Operator
+
+3. Data types are divided into two groups:
+
+	-->Primitive data types - includes byte, short, int, long, float, double, boolean and char
+	-->Non-primitive data types - such as String, Arrays and Classes
+
+4. Type Casting 
+---------------
+4.1 Implicit Type Casting (Widening Casting)
+--> Widening casting is done automatically when passing a smaller size type to a larger size type.
+4.2 Explicit Type Casting (Narrowing Casting)
+--> Narrowing casting must be done manually by placing the type in parentheses () in front of the value.
+
+5. ANSI escape code constants are there for text colors and background colors.

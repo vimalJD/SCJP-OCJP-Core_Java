@@ -1,3 +1,0 @@
-Data type use to create simple java class 
-
-Arithmetic Operator
