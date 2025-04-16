@@ -17,3 +17,5 @@
 --> Narrowing casting must be done manually by placing the type in parentheses () in front of the value.
 
 5. ANSI escape code constants are there for text colors and background colors.
+
+6. Taking user input from keyboard

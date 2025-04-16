@@ -82,5 +82,18 @@ public class BasicsJavaClass {
 	    // convert string variable to float
 	    float num_2 = Float.parseFloat(data_1);
 	    System.out.println("The integer value is: " + num_2);
+	    
+	    //Taking user input from keyboard
+	    //System.out.println(MAGENTA + "-------Taking user input from keyboard------" + RESET);
+	    //JVM tries to run 2 part above this and below this if i would put scanner here
+	    
+//		Scanner sc = new Scanner(System.in);
+//		System.out.println("\nEnter your age");
+//		int age = sc.nextInt();
+//
+//		System.out.println("Age: " + age);
+		 
+	   
+	    
 	}
 }
