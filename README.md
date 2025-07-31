@@ -1,5 +1,5 @@
 # Core-Java-Concepts
 
-Basics Java
+Java Basics
 
 OOPS
